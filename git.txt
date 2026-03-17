@@ -1,0 +1,12 @@
+git clone https://github.com/xiaoyu950201/GUI_2026-N13310025.git
+
+git add .
+
+git config --global user.email "s015046@sphs.hc.edu.tw"
+
+git config --global user,name "libra622"
+
+git commit -m "20260317"
+
+git push -u origin main
+
