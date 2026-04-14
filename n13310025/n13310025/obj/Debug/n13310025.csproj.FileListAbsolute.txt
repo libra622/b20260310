@@ -8,3 +8,4 @@ C:\Users\MEGAS\Desktop\b20260310\n13310025\n13310025\bin\Debug\n13310025.exe
 C:\Users\MEGAS\Desktop\b20260310\n13310025\n13310025\bin\Debug\n13310025.pdb
 C:\Users\MEGAS\Desktop\b20260310\n13310025\n13310025\obj\Debug\n13310025.exe
 C:\Users\MEGAS\Desktop\b20260310\n13310025\n13310025\obj\Debug\n13310025.pdb
+C:\Users\MEGAS\Desktop\b20260310\n13310025\n13310025\obj\Debug\n13310025.Formbuttonbiger.resources
