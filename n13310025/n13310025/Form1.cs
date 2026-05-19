@@ -52,5 +52,10 @@ namespace n13310025
             string str = textBox1.Text;
             label2.Text=str;
         }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            new FormTimer().Show();
+        }
     }
 }
