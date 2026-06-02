@@ -23,5 +23,21 @@ namespace n13310025
             counter+=1; //counter = counter+1;
             labCounter.Text = counter.ToString()+"秒";
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+         timer1.Enabled = true;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+        timer1.Enabled=false;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled=false;
+            labCounter.Text="0秒";
+        }
     }
 }
