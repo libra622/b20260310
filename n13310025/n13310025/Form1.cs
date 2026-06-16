@@ -67,5 +67,10 @@ namespace n13310025
         {
             new FormLayout().Show();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            new Form_panel().Show();
+        }
     }
 }
